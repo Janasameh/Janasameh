@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Jana Sameh 👋
 
-<!--
-**Janasameh/Janasameh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate from MSA & University of Greenwich, focused on .NET backend development.
 
-Here are some ideas to get you started:
+## Tech Stack
+- C#, .NET, ASP.NET Core, Entity Framework Core
+- SQL Server, PostgreSQL, RabbitMQ, Docker
+- REST APIs, Microservices, CQRS, JWT, RBAC
+- xUnit, Git, GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Microservice Boutique Store](https://github.com/Janasameh/microservice-boutique-store) — Event-driven microservices with .NET 9, RabbitMQ, PostgreSQL, Docker.
+- [MedApp](https://github.com/Janasameh/medapp) — Medical scheduling API with ASP.NET Core, SQL Server, JWT, RBAC.
+- [Clinic Appointment API](https://github.com/Janasameh/clinic-appointment-api) — Production-grade API with tests, CI/CD, deployment.
+
+## Currently
+Looking for a *Junior .NET Backend Developer* role in Egypt or remote-friendly teams.
+
+## Contact
+- Email: janaasameh92@gmail.com
+- LinkedIn: linkedin.com/in/jana-sameh
